@@ -295,6 +295,7 @@ p{
 
 .topic{
 	margin-bottom: 217px;
+	position: relative;
 }
 
 
@@ -316,8 +317,8 @@ p{
 	width: 334px;
 	height: 244px;
 	position: absolute;
-	left: 20px;
-	top: 450px;
+	left: 0px;
+	top: 250px;
 	z-index: -1;
 	background-size: contain;
 	background-repeat: no-repeat;
