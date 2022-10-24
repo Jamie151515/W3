@@ -181,10 +181,10 @@ p{
 }
 
 
-@media(max-width:375px){
+@media(max-width:576px){
 
 	h1{
-		font-size: 28px;
+		font-size: 32px;
 	}
 
 	h2{
@@ -318,7 +318,7 @@ p{
 	height: 100%;
 	position: absolute;
 	left: 0px;
-	top: 150px;
+	top: 200px;
 	z-index: -1;
 	background-size: contain;
 	background-repeat: no-repeat;
