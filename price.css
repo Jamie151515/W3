@@ -305,7 +305,7 @@ p{
     display: none;
 }
 
-@media(max-width:375px){
+@media(max-width:576px){
 
     .header{
         border-bottom: 2px solid #F6CB52;
