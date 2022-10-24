@@ -81,7 +81,7 @@ img{
     height: 71px;
     position: fixed;
     right: 48px;
-    bottom: 84px;
+    bottom: 50px;
     z-index: 1;
 }
 
@@ -374,7 +374,7 @@ p{
 	z-index: -1;
 }
 
-@media(max-width:375px){
+@media(max-width:576px){
 
 	.platform{
 		margin-bottom: 60px;
@@ -407,7 +407,7 @@ p{
 	border-radius: 12px 12px 0px 0px;
 }
 
-@media(max-width:375px){
+@media(max-width:576px){
 
 	.character{
 		margin-bottom: 60px;
@@ -517,7 +517,7 @@ p{
 }
 
 
-@media(max-width:375px){
+@media(max-width:576px){
 
 	.footer{
 		background-image: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/f70f00178a7f0baa31e9c01634303d8562cfe93a/chatTalker_images/footer_sm.svg);

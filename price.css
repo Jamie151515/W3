@@ -72,6 +72,15 @@ img{
 	font-family: Noto Sans TC;
 }
 
+.btn-top{
+    width: 71px;
+    height: 71px;
+    position: fixed;
+    right: 48px;
+    bottom: 50px;
+    z-index: 1;
+}
+
 .btn-orange{
 	background: #FF5D50;
 	color: #fff;
@@ -268,7 +277,7 @@ p{
     margin-bottom: 100px;
 }
 
-@media(max-width:375px){
+@media(max-width:576px){
 
     .bg-gray{
         display: none;
