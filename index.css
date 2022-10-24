@@ -318,10 +318,11 @@ p{
 	height: 244px;
 	position: absolute;
 	left: 0px;
-	top: 250px;
+	top: 300px;
 	z-index: -1;
 	background-size: contain;
 	background-repeat: no-repeat;
+	background-position: center;
 }
 
 @media(max-width:576px){
